@@ -1,0 +1,5 @@
+most_common: (93, 2)
+least_common: (19, 1)
+average: 49.6
+median: 50
+sum: 744
